@@ -1,1 +1,1 @@
-# novaa
+print("L)
